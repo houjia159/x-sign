@@ -11,7 +11,7 @@ url：http://guide-acs.m.taobao.com/gw/mtop.taobao.rate.detaillist.get/4.0
 
 ## 获取x-sign值
 通过调用接口 http://xsign.iceftech.com/api/sign 获取，对应参数以json流发送，下图是postman请求对应的参数
-![1.png](https://upload-images.jianshu.io/upload_images/9203913-c4458576f9e9acda.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![1.png](https://github.com/Colinlyj210/x-sign/blob/master/1.png)
 
 ## 获取评价内容
 使用postman构造请求发送获取结果

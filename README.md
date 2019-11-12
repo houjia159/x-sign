@@ -20,5 +20,3 @@ url：http://guide-acs.m.taobao.com/gw/mtop.taobao.rate.detaillist.get/4.0
 
 ## 技术支持
 联系qq: 951263019  
-接口费用: 100次/元，10元起购  
-完整的技术解决方案：4999元  
